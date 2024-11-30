@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>i love ni-ki</title>
+        <link rel="stylesheet" href="id.css">
+    </head>
+    <body id="riki">
+        <h1 id="jungwon"> ID Selector</h1>
+        <img src="id1.png" alt="idselector" style="float:right;width:250px;height:90px;">
+        <img src="id2.png" alt="idselector" style="float:right;width:450px;height:650px;">
+        <p id="sunghoon">
+            X-O-O-O-O-O-O, X-O-O-O-O-O-O <br>
+Kiss me-e-e-e-e-e, don't say no-o-o-o-o-o<br>
+X-O, yeah, huh<br>
+오직 너만 줄 수 있는 허락의 말<br><br>
+해도 달도 따다 줄 수 있어, 말해 허락의 그 말<br>
+너의 X-O, 나의 구원, please, babe, say yes<br>
+황혼이 내릴 때, 네 모든 꿈을 이루어줄게<br>
+Please, say my name, 나 너의 지니가 되어줄게<br><br>
+So just say O, babe, 날 움직이는 단 하나 열쇠, yeah<br>
+나를 사용해, 내 우주의 유일한 신 그대<br>
+X-O, X-O<br>
+Kiss me, don't say no<br><br>
+X-O-O-O-O-O-O, X-O-O-O-O-O-O<br>
+Kiss me-e-e-e-e-e, don't say no-o-o-o-o-o<br>
+X-O-O-O-O-O-O, X-O-O-O-O-O-O<br>
+Kiss me-e-e-e-e-e, just say O-O-O-O-O-O<br><br>
+X-O, yeah<br>
+Can I kiss you? Can I hug you?<br>
+너에게 감사해, yeah<br>
+Would you kiss me? Would you hug me?<br><br>
+허락을 구할게, yeah<br>
+One and (one and) only (only) 나의 (나의) 여신 (여신)<br>
+For you (for you), I will<br>
+So just say O, babe, 저 달을 향해 날아가 볼래?<br><br>
+So just say O, babe, 더 멋진 차와 집이 필요해?<br>
+So just say O, babe, 날 움직이는 단 하나 열쇠, yeah<br>
+나를 사용해, 네 모든 꿈이 이루어지게<br>
+X-O, X-O<br><br>
+Kiss me, don't say no<br>
+X-O-O-O-O-O-O, X-O-O-O-O-O-O<br>
+Kiss mе-e-e-e-е-e, don't say no-o-o-o-o-o<br>
+X-O-O-O-O-O-O, X-O-O-O-O-O-O<br>
+Kiss me-e-e-e-e-e, just say O-O-O-O-O-O
+        </p>
+    </body>
+</html>
