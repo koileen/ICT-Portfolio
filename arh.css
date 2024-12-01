@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: #222222;
+    overflow-y: auto;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    height: 300px;
+    width: 400px;
+     padding: 20px;
+     margin: 20px;
+    color: white;
+    background-image: url(1.JPG);
+    background-size: cover;
+    display: flex;
+  position: relative;
+    cursor: pointer;
+}
+
+.cardd{
+    height: 300px;
+    width: 400px;
+     padding: 20px;
+     margin: 20px;
+    color: white;
+    background-image: url(2.JPG);
+    background-size: cover;
+    display: flex;
+  position: relative;
+    cursor: pointer;
+}
+
+.carddd{
+    height: 300px;
+    width: 400px;
+     padding: 20px;
+     margin: 20px;
+    color: white;
+    background-image: url(3.JPG);
+    background-size: cover;
+    display: flex;
+  position: relative;
+    cursor: pointer;
+}
+
+.cardddd{
+    height: 300px;
+    width: 400px;
+     padding: 20px;
+     margin: 20px;
+    color: white;
+    background-image: url(4.JPG);
+    background-size: cover;
+    display: flex;
+  position: relative;
+    cursor: pointer;
+}
+.card1{
+    height: 300px;
+    width: 400px;
+     padding: 20px;
+     margin: 20px;
+    color: white;
+    background-image: url(5.JPG);
+    background-size: cover;
+    display: flex;
+  position: relative;
+    cursor: pointer;
+}
+
+.card2{
+    height: 300px;
+    width: 400px;
+     padding: 20px;
+     margin: 20px;
+    color: white;
+    background-image: url(6.JPG);
+    background-size: cover;
+    display: flex;
+  position: relative;
+    cursor: pointer;
+}
+
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(31, 31, 31, 0.85);
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+
+.content *{
+    transform: translateY(-70%);
+    transition: all 0.3s ease;
+    opacity: 0;
+}
+
+.content h2{
+    font-size: 35px;
+    margin: 15px;
+    font-weight: 700;
+}
+
+.content h3{
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.card:hover .content{
+    opacity: 1;
+}
+
+.card:hover .content *{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.cardd:hover .content{
+    opacity: 1;
+}
+
+.cardd:hover .content *{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.carddd:hover .content{
+    opacity: 1;
+}
+
+.carddd:hover .content *{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.cardddd:hover .content{
+    opacity: 1;
+}
+
+.cardddd:hover .content *{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card1:hover .content{
+    opacity: 1;
+}
+
+.card1:hover .content *{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card2:hover .content{
+    opacity: 1;
+}
+
+.card2:hover .content *{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
