@@ -1,1 +1,15 @@
-body{background-image:url(mhabg.jpeg);background-repeat: no-repeat;background-position: center;background-size: cover;background-color: rgb(66, 66, 97);}
+/* Ensure html and body take full height */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Background image styling */
+body {
+    background-image: url(mhabg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(66, 66, 97); /* Fallback color */
+}
